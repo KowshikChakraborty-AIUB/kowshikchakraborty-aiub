@@ -2,7 +2,11 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KowshikChakraborty-AIUB&theme=merko&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=KowshikChakraborty-AIUB&theme=merko&mode=weekly">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KowshikChakraborty-AIUB&theme=merko&mode=weekly" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://api.githubtrends.io/user/svg/KowshikChakraborty-AIUB/langs?time_range=six_months&use_percent=True&theme=dark">
