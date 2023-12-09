@@ -31,6 +31,4 @@
   <a href="http://i.imgur.com/0o48UoR.png">
     <img src="http://i.imgur.com/0o48UoR.png" />
   </a>
-  [![social media](http://i.imgur.com/P3YfQoD.png)](http://i.imgur.com/P3YfQoD.png)
-  [![social media](http://i.imgur.com/0o48UoR.png)](http://i.imgur.com/0o48UoR.png)
 </p>
