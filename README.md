@@ -26,9 +26,9 @@
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009473225157">
-    <img src="https://cdn.logojoy.com/wp-content/uploads/20230921104408/Facebook-logo-600x319.png" />
+    <img src="https://cdn.logojoy.com/wp-content/uploads/20230921104408/Facebook-logo-600x319.png" height="50" width="50" />
   </a>
   <a href="https://github.com/kowshikchakraborty-aiub">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="50" width="50" />
   </a>
 </p>
