@@ -24,9 +24,11 @@
 
 ### Contact Me Through Social Media
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
-<i class="ci ci-whatsapp-horizontal ci-2x"></i>
+[1.1]: http://i.imgur.com/P3YfQoD.png <!-- (facebook icon with padding) -->
+[2.1]: http://i.imgur.com/0o48UoR.png <! -- (github icon with padding) -->
+
+[1]: https://www.facebook.com/profile.php?id=100009473225157
+[2]: https://github.com/kowshikchakraborty-aiub
