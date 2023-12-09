@@ -1,5 +1,17 @@
 [![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)
 
+### Work Description
+
+I am a MERN stack web developer and i know techlogies and libraries like React, Tailwind css, Node JS, MongoDB etc. I am also exploring new libraries and trying to create beautiful websites applying new technologies. Some new libraries or tools I have explored so far are:
+
+1. DaisyUI
+2. React Toastify
+3. Sweet Alert
+4. React Countup
+5. React Popup
+
+I will explore more new tools like the above and apply to my future projects.
+
 ### GitHub Stats
 
 <p align="center">
