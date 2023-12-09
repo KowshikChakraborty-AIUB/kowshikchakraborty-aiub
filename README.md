@@ -24,8 +24,10 @@
 
 ### Contact Me Through Social Media
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+<p align="center">
+  [![alt text][1.1]][1]
+  [![alt text][2.1]][2]
+</p>
 
 [1.1]: http://i.imgur.com/P3YfQoD.png
 [2.1]: http://i.imgur.com/0o48UoR.png
