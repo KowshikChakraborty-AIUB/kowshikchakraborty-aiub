@@ -25,10 +25,10 @@
 ### Contact Me Through Social Media
 
 <p align="center">
-  <a href="http://i.imgur.com/P3YfQoD.png">
-    <img src="http://i.imgur.com/P3YfQoD.png" />
+  <a href="https://www.facebook.com/profile.php?id=100009473225157">
+    <img src="https://cdn.logojoy.com/wp-content/uploads/20230921104408/Facebook-logo-600x319.png" />
   </a>
-  <a href="http://i.imgur.com/0o48UoR.png">
-    <img src="http://i.imgur.com/0o48UoR.png" />
+  <a href="https://github.com/kowshikchakraborty-aiub">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
   </a>
 </p>
