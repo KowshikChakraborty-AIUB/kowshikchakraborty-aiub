@@ -1,4 +1,4 @@
-[comment]: <> ([![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg))
+<!--- [![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)
 
 ### Work Description
 
@@ -10,7 +10,7 @@ I am a MERN stack web developer and i know techlogies and libraries like React, 
 4. React Countup
 5. React Popup
 
-I will explore more new tools like the above and apply to my future projects.
+I will explore more new tools like the above and apply to my future projects. -->
 
 ### GitHub Stats
 
