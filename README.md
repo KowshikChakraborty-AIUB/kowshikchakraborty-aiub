@@ -1,4 +1,4 @@
-[![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)
+[comment]: <> ([![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg))
 
 ### Work Description
 
