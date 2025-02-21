@@ -41,10 +41,10 @@ I will explore more new tools like the above and apply to my future projects.
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009473225157">
-    <img src="https://cdn.logojoy.com/wp-content/uploads/20230921104408/Facebook-logo-600x319.png" height="50" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" height="50" width="50" />
   </a>
   <a href="https://github.com/kowshikchakraborty-aiub">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="50" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" width="50" />
   </a>
   <a href="https://github.com/kowshikchakraborty-aiub">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="50" width="50" />
