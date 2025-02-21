@@ -46,7 +46,7 @@ I will explore more new tools like the above and apply to my future projects.
   <a href="https://github.com/kowshikchakraborty-aiub">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" width="50" />
   </a>
-  <a href="https://github.com/kowshikchakraborty-aiub">
+  <a href="https://www.linkedin.com/in/kowshik-chakraborty/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="50" width="50" />
   </a>
 </p>
