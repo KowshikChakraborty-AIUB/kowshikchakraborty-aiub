@@ -1,16 +1,19 @@
-<!--- [![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)
+[![Portfolio Banner](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)](https://raw.githubusercontent.com/KowshikChakraborty-AIUB/kowshikchakraborty-aiub/main/portfolio_banner.jpg)
 
 ### Work Description
 
-I am a MERN stack web developer and i know techlogies and libraries like React, Tailwind css, Node JS, MongoDB etc. I am also exploring new libraries and trying to create beautiful websites applying new technologies. Some new libraries or tools I have explored so far are:
+I am a MERN stack web developer and i know techlogies and libraries like JavaScript, TypeScript, MongoDB, ExpressJs, ReactJs, NodeJs, NextJs, Tailwind css etc. I am also exploring new libraries and trying to create beautiful websites applying new technologies. Some new libraries or tools I have explored so far are:
 
 1. DaisyUI
-2. React Toastify
-3. Sweet Alert
-4. React Countup
-5. React Popup
+2. ShadCN
+3. React Toastify
+4. Sweet Alert
+5. React Countup
+6. React Popup
+7. React Day Picker
+8. React Quill
 
-I will explore more new tools like the above and apply to my future projects. -->
+I will explore more new tools like the above and apply to my future projects.
 
 ### GitHub Stats
 
@@ -30,7 +33,7 @@ I will explore more new tools like the above and apply to my future projects. --
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,express,react,nodejs,nextjs" />
   </a>
 </p>
 
@@ -42,5 +45,8 @@ I will explore more new tools like the above and apply to my future projects. --
   </a>
   <a href="https://github.com/kowshikchakraborty-aiub">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="50" width="50" />
+  </a>
+  <a href="https://github.com/kowshikchakraborty-aiub">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="50" width="50" />
   </a>
 </p>
